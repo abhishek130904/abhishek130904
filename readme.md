@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Tech CSE** @ **Indian Institute of Technology, Indore** (2024–Present) | CGPA: **7.52**
+- 🎓 **B.Tech CSE** @ **Indian Institute of Technology, Indore** (2024–Present)
 - 📱 **App Development Head** @ Google Developer Group, IIT Indore
 - 🏆 Hackathon winner, competitive programmer, and open-source builder
 - 💡 I love building full-stack systems, cross-platform mobile apps, and AI-powered tools
