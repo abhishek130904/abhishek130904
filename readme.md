@@ -52,38 +52,16 @@
 
 ## 🚀 Featured Projects
 
-### 🗺️ [Trip Buddy](https://github.com/abhishek130904/iitiSoC) — Cross-Platform Travel Planner
-> Kotlin Multiplatform · Jetpack Compose · Spring Boot · MySQL · Firebase · Docker
-
-- Cross-platform Android/iOS app with shared KMP codebase and Spring Boot MVC backend
-- Integrated 5 external APIs (Amadeus, OpenWeatherMap, OpenTripMap, Wikipedia, Unsplash) for real-time data
-- ML recommendation engine using Truncated SVD, K-Means clustering, and cosine similarity
-- Firebase Google Sign-In auth; backend containerized with Docker, deployed on Aiven cloud MySQL
-
----
-
-### 🤖 [CoderBuddy](https://github.com/abhishek130904/AgentCoder) — Multi-Agent AI Code Generator
-> FastAPI · LangGraph · React · TypeScript · Monaco Editor · Vercel · Render
-
-- Multi-agent AI pipeline (Planner → Architect → Coder → Reviewer) with LangGraph state-transition graphs
-- Two-stage LLM fallback (schema calling + regex JSON parsing) for graceful tool-calling failure recovery
-- Sandboxed live code preview inlining CSS/JS into secure iframe HTML Blobs
-
----
-
-### 🛒 [Shop4Ever](https://github.com/abhishekverma9/supermarket) — Supermarket Management System
-> React · Node.js · Express.js · MySQL · Tailwind CSS · ImageKit
-
-- Role-based portals (Owner, Employee, Consumer) secured via JWT, Bcrypt, and SMTP 2FA OTP
-- 3NF-normalized schema (12 entities) with SQL Triggers and ACID-compliant InnoDB Stored Procedures
-- Query optimization via B+ Tree secondary indexes and selection pushdown
+- 🗺️ **[Trip Buddy](https://github.com/abhishek130904/iitiSoC)**
+- 🤖 **[CoderBuddy](https://github.com/abhishek130904/AgentCoder)**
+- 🛒 **[Shop4Ever](https://github.com/abhishekverma9/supermarket)**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek130904&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek130904&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek130904&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
@@ -103,7 +81,6 @@
 | 🥈 | **Finalist** — IITISOC, Software Division (Aug 2025) |
 | 💻 | **LeetCode Rating 1556** |
 | ⚡ | **Codeforces Specialist** — Max Rating 1470 |
-| 🥉 | **Bronze** — Fashion Show, Inter IIT Culturals Meet |
 
 ---
 
@@ -111,12 +88,5 @@
 
 - 📧 **Email:** rajabhishek4444@gmail.com
 - 🏫 **Institute Mail:** cse240001006@iiti.ac.in
-- 📱 **Phone:** +91-7903326287
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishek130904&color=6366f1&style=flat-square&label=Profile+Views"/>
-</p>
-
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
