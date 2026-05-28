@@ -80,8 +80,9 @@
 | 🏆 | **Winner** — Tech-Eshi Castle (Nov 2024) |
 | 🥈 | **Finalist** — Technocrats Hackathon (Dec 2025) |
 | 🥈 | **Finalist** — IITISOC, Software Division (Aug 2025) |
-| 💻 | [**LeetCode Rating 1556**](https://leetcode.com/u/abhishek130904/) |
-| ⚡ | [**Codeforces Specialist — Max Rating 1470**](https://codeforces.com/profile/abhishek130904) |
+| 💻 | [**LeetCode Rating 1556**](https://leetcode.com/u/null_noob/) |
+| ⚡ | [**Codeforces Specialist — Max Rating 1470**](https://codeforces.com/profile/null_noob) |
+
 
 
 ---
