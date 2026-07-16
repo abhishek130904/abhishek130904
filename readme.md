@@ -63,7 +63,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishek130904&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=abhishek130904&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=abhishek130904&theme=tokyonight&hide_border=true&cache_seconds=1" />
 </p>
 
 <p align="center">
